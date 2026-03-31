@@ -1,3 +1,5 @@
+
+  
   [User Input] → [System Prompt Injection (skill list
   + memory)] → [Lead Agent]
        ↓
